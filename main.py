@@ -1,8 +1,7 @@
 import turtle
 import random
-import math
 import time
-from turtle import *
+
 
 turtle_screen=turtle.Screen()
 turtle_screen.title("Catch the Turtle Game")
